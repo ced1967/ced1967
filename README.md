@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ced1967
-- 👀 I'm an experienced developer in different languages: Java, C, C++, JavaScript, TypeScript, etc. as well as frameworks like SpringBoot and Angular.
+- 👀 I'm an experienced developer in different languages: Java, C, C++, JavaScript, TypeScript, GoLang, etc. as well as frameworks like SpringBoot and Angular.
 - 🌱 I’m currently learning Rust
 
 <!---
